@@ -1,6 +1,7 @@
 # Books I recommend
 
 1. **Start with Why** – Simon Sinek
+1. **Ruined by design** – Mike Monteiro
 1. **Running Lean: Iterate from Plan A to a Plan That Works** – Ash Maurya
 1. **Lean UX: Applying Lean Principles to Improve User Experience** – Jeff Gothelf
 1. **Rework** – Jason Fried
